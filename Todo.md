@@ -22,6 +22,8 @@ DELETE /api/rpn/ApiRpn/DELETEALL  |	clear Stack
 ## Running the Project
 Following command can be used to run the project
 ```Bash
+https://github.com/sabri/Rpn_Calculatrice.git
+cd Rpn_Calculatrice
 dotnet run
 ```
 This project can also be run from Visual Studio IDE or Visual Studio Code
